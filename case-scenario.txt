@@ -1,0 +1,30 @@
+ASSIGNMENT:
+- Create a one page website. You can use a design tool or code it.
+- Use available images online
+- Create dummy contact details
+- You can use dummy/lorem ipsum texts for content
+- Send a link or the files needed to check the finish work
+
+Case Scenario:
+"Delicious Bites Bakery" is a small local bakery that specializes in handmade cookies and breads. 
+The owner Sarah is passionate about her products and have built a strong reputation for her delicious and 
+freshly baked goods. She has been in business for several years, primarily serving her local community through 
+her physical storefront located in Al Barsha, Dubai. She's now looking to expand her reach and attract customers
+from a wider area by launching an online presence.
+
+Main highlights of what the client wants to achieve:
+- Hero/Welcome section: Feature mouthwatering image(s) of her freshly baked cookies and breads. She wants the website visitors to immediately feel tempted to explore more.
+
+- About section: Emphasize her use of fresh, locally sourced ingredients and her commitment to traditional baking methods.
+
+- Products/Menu section: The website will showcase a wide variety of cookies and breads, including descriptions, ingredients, and pricing. Categorize products, such as 
+  chocolate chip cookies, oatmeal raisin cookies, sourdough bread, baguettes, and more.
+
+- Seasonal Promotions section: Sarah plan to introduce seasonal promotions, such as holiday-themed cookie assortments or limited-time bread flavors. These promotions 
+  will be prominently featured on the website to generate excitement and encourage impulse purchases.
+
+- Delivery and Pickup Options: Customers will have the choice of delivery or in-store pickup. The website will provide clear information about the store location for her 
+local customers that wil opt for the pickup option. The delivery option is only limited within Dubai area that will cost from 20-40 Dirhams.
+
+- Contact and Social Media section: The website will integrate links to the bakery's social media profiles, enabling visitors to connect and engage with them on platforms 
+like Instagram and Facebook. Phone, email and address should be visible as well.
